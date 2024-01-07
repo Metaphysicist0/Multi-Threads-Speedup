@@ -1,0 +1,6 @@
+﻿  Clt.cpp
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(123,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(341,28): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(377,27): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(417,27): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+  Group_work_client.vcxproj -> G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\x64\Debug\Group_work_client.exe

@@ -1,0 +1,11 @@
+﻿  Clt.cpp
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(127,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(345,28): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(381,27): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\Clt.cpp(421,27): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+  stdafx.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Group_work_client.vcxproj -> G:\OneDrive\Desktop\姚天亮 吕泓泰 算法\Source Code\Group_work_client\x64\Release\Group_work_client.exe
