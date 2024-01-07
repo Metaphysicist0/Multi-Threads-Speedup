@@ -1,0 +1,25 @@
+﻿spring.obj : error LNK2005: "float * summid" (?summid@@3PAMA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "float * sortmid" (?sortmid@@3PAMA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "void * * hThreads" (?hThreads@@3PAPAXA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "float * maxmid" (?maxmid@@3PAMA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "void * g_hHandle" (?g_hHandle@@3PAXA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: static float bubble::sum" (?sum@bubble@@2MA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: static float bubble::max" (?max@bubble@@2MA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "float * rawFloatData" (?rawFloatData@@3PAMA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "void * * hSemaphores" (?hSemaphores@@3PAPAXA) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: _main 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: int __thiscall bubble::bubblethreadssort(void)" (?bubblethreadssort@bubble@@QAEHXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: int __thiscall bubble::bubblethreadsmax(void)" (?bubblethreadsmax@bubble@@QAEHXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: int __thiscall bubble::bubblethreadssum(void)" (?bubblethreadssum@bubble@@QAEHXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: bool __thiscall bubble::sortmerge(int)" (?sortmerge@bubble@@QAE_NH@Z) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: void __thiscall bubble::sortinsert(float *,float *)" (?sortinsert@bubble@@QAEXPAM0@Z) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "unsigned long __stdcall Threadmax(void *)" (?Threadmax@@YGKPAX@Z) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "unsigned long __stdcall Threadsum(void *)" (?Threadsum@@YGKPAX@Z) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "unsigned long __stdcall Threadsort(void *)" (?Threadsort@@YGKPAX@Z) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: int __thiscall bubble::bubblebasesort(void)" (?bubblebasesort@bubble@@QAEHXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: int __thiscall bubble::bubblebasemax(void)" (?bubblebasemax@bubble@@QAEHXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: int __thiscall bubble::bubblebasesum(void)" (?bubblebasesum@bubble@@QAEHXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: void __thiscall bubble::bubblemax(void)" (?bubblemax@bubble@@QAEXXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: void __thiscall bubble::bubblesum(void)" (?bubblesum@bubble@@QAEXXZ) 已经在 Without SSE AVX.obj 中定义
+spring.obj : error LNK2005: "public: __thiscall bubble::bubble(void)" (??0bubble@@QAE@XZ) 已经在 Without SSE AVX.obj 中定义
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\Release\spring.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

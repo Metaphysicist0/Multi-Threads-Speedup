@@ -1,0 +1,12 @@
+﻿  spring.cpp
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(183,26): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(196,26): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(227,27): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(277,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(318,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(339,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(339,11): message : 请考虑在格式字符串中使用“%zd”
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(377,26): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(412,26): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\spring.cpp(450,27): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+  spring.vcxproj -> G:\OneDrive\Desktop\bighw\TCP-multi-threads-speedup-main\spring\x64\Debug\spring.exe
